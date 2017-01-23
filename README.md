@@ -1,6 +1,7 @@
 # pubchemgrabber
 
-An automated work-flow to retrieve and filter candidate sets based on RI
+An automated work-flow to retrieve and filter candidate sets based on experimental RI
+
 pubchemgrabber allows...
 
 * Retrieve candidate using exact mass from PubChem Database
