@@ -1,5 +1,5 @@
 #pubchemgrabber
-An automated LC-MS based work-flow written in python, intended to be used in untargated-metabolomics to retrieve (using exact mass) and filter candidate sets by matching experimental RI values (obtained using LC-MS experiments) with predicted RI values based on an ANN based RI predictor.
+pubchemgrabber is an automated LC-MS based work-flow written in python, intended to be used in untargated-metabolomics. 
 
 pubchemgrabber allows...
 * Retrieval of candidate using exact mass from PubChem or a local SD file
