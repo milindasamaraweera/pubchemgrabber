@@ -1,5 +1,5 @@
 #pubchemgrabber
-pubchemgrabber is an automated LC-MS based work-flow written in python, intended to be used in untargated-metabolomics. 
+pubchemgrabber is an automated-LC-MS based work-flow written in python, intended to be used in untargated-metabolomics. 
 
 pubchemgrabber allows...
 * Retrieval of candidate using exact mass from PubChem or a local SD file
